@@ -1,6 +1,7 @@
 # DSA-Essentials-Bootcamp
 Assignment - DSA Essentials Bootcamp
 
+
 def find_majority_element(nums):
     count = 0
     candidate = None
